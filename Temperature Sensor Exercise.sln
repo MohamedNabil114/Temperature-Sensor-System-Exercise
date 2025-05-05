@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature_Sensor", "Temperature_Sensor\Temperature_Sensor.csproj", "{903E3DA3-3A27-404C-A1FA-B67D27792725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903E3DA3-3A27-404C-A1FA-B67D27792725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903E3DA3-3A27-404C-A1FA-B67D27792725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903E3DA3-3A27-404C-A1FA-B67D27792725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903E3DA3-3A27-404C-A1FA-B67D27792725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E72F72-037A-43CB-BBED-1DFC27D5B725}
+	EndGlobalSection
+EndGlobal
